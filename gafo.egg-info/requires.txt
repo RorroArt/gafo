@@ -1,0 +1,16 @@
+numpy
+
+[cuda]
+pycuda
+
+[linting]
+flake8
+pylint
+mypy
+pre-commit
+
+[testing]
+torch
+pytest
+pytest-xdist
+types-PyYAML

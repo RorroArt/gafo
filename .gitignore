@@ -1,0 +1,5 @@
+./gafo/__pycache__
+./gafo/utils/__pycache__
+./experiments/__pycache__
+./tests/__pycache__
+./gafo.egg-info
